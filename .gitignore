@@ -1,0 +1,24 @@
+# MacOS and Linux files
+.DS_Store
+Thumbs.db
+
+# Node.js directories
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MongoDB files
+*.mongodb.log
+*.mongod.lock
+
+# dotenv files
+.env
+
+# Logs
+logs/
+
+# IDE and editor files
+.idea/
+.vscode/
+.editorconfig
